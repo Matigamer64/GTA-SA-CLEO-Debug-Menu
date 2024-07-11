@@ -1,0 +1,185 @@
+# Help Messages
+DEBUG14 Press 1-6 to set wanted level, or ~k~~VEHICLE_ENTER_EXIT~ to cancel.
+DEBUG15 Use the LEFT and RIGHT ARROWS to change the stat, the UP and DOWN ARROWS to change stats, and ~k~ SPACE when done.
+DEBUG16 You can't spawn train without missing first train.
+DEBUG17 Left/Right To Set Speed~n~Space To Stop Instantly~n~Enter To Exit.
+DEBUG18 Use the LEFT and RIGHT ARROWS to select the primary color, and the UP and DOWN arrows to select the secondary color. Press ENTER when done.
+DEBUG19 Use the LEFT and RIGHT ARROWS to change the hour, the UP and DOWN ARROWS to set the minutes, and SHIFT to advance the day. Press ~k~~VEHICLE_ENTER_EXIT~ when done.
+DEBUG20 Use the LEFT and RIGHT ARROWS to change model, SHIFT along with arrows to change model id by 50, WASD and ZX keys to move object, Enter to exit and remove currently spawned object, and SPACE to add object.
+DEBUG21 Use the LEFT and RIGHT ARROWS to change gangs, the UP and DOWN ARROWS to set the density, SPACE to apply changes and ENTER when done.
+DEBUG22 Use the LEFT and RIGHT ARROWS to select interior id. Press SPACE to change loaded interior. Press G to link player to interior. Press ENTER when done.
+DEBUG23 Use the ARROW KEYS to move around, WS to control height, and mouse for rotation. Press SHIFT along with WS or ARROW KEYS to fly faster. Press ENTER when done.
+DEBUG24 Use the LEFT and RIGHT ARROWS to select skin. Press F or Enter to exit.
+DEBUG25 Use the LEFT and RIGHT ARROWS to select ped skin. Press Space to Spawn Ped. Press F or Enter to exit.
+
+# Info
+DEBUG26 ~y~I=~1~,
+DEBUG27 ~y~OM=~1~,
+DEBUG28 ~y~Town ID=~1~,
+DEBUG29 ~y~Player Defined=
+DEBUG30 ~y~Yes,
+DEBUG31 ~y~No,
+DEBUG32 ~y~Weapon Slot=~1~
+DEBUG33 ~y~Weapon ID=~1~
+DEBUG34 ~y~Weapon Model ID=~1~
+DEBUG35 ~y~Ammo=~1~
+DEBUG36 ~y~Player State=~1~,
+DEBUG37 ~y~Game State=~1~,
+DEBUG38 ~y~Player Walkstyle ID=~1~,
+DEBUG39 ~y~Recall Time=~1~,
+DEBUG40 ~y~Call active=~1~,
+DEBUG41 ~y~Current Call Id=~1~,
+DEBUG42 ~y~Time From Last Call Got Flag=~1~,
+DEBUG43 ~y~INTRO_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG44 ~y~SWEET_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG45 ~y~RYDER_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG46 ~y~SMOKE_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG47 ~y~OG_LOC_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG48 ~y~CRASH_LS_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG49 ~y~MISSION_LOWRIDER_PASSED=~1~,
+DEBUG50 ~y~FPS=~1~
+DEBUG51 ~y~LS_FINAL_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG52 ~y~MISSION_BADLANDS_PASSED=~1~,
+DEBUG53 ~y~TRUTH_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG54 ~y~CESAR_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG55 ~y~MISSION_LOCAL_LIQUOR_STORE_PASSED=~1~,
+DEBUG56 ~y~MISSION_SMALL_TOWN_BANK_PASSED=~1~,
+DEBUG57 ~y~MISSION_TANKER_COMMANDER_PASSED=~1~,
+DEBUG58 ~y~ALL_CATALINA_MISSIONS_PASSED=~1~,
+DEBUG59 ~y~KING_IN_EXILE=~1~,
+DEBUG60 ~y~GARAGE_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG61 ~y~WUZIMU_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG62 ~y~SYNDICATE_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG63 ~y~CRASH_SF_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG64 ~y~ZERO_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG65 ~y~STEAL_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG66 ~y~TORENO_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG67 ~y~CASINO_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG68 ~y~CRASH_LV_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG69 ~y~MADD_DOGG_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG70 ~y~HEIST_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG71 ~y~MANSION_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG72 ~y~GROVE_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG73 ~y~RIOT_TOTAL_PASSED_MISSIONS=~1~,
+DEBUG74 ~y~RACES_WON_NUMBER=~1~,
+DEBUG76 ~y~Zone=
+DEBUG77 ~y~Interior Name=
+DEBUG78 ~y~Move State=~1~
+DEBUG81 ~y~Fighting Style=~1~
+
+
+# Visual Object Info
+dbgMI ~g~~h~~h~~h~MODEL INFO: ~w~(contact)~n~---------------------------
+dbgOT Model Type:
+dbgOT1 ~b~~h~OBJECT
+dbgOT2 ~b~~h~CAR
+dbgOT3 ~b~~h~BIKE
+dbgTR Tris: ~y~~1~
+dbgVS Verts: ~y~~1~
+dbgML Num mats: ~y~~1~
+dbg1 ~g~~h~~h~yes
+dbg0 ~r~~h~~h~no
+dbgPR prelit:
+dbgU1 UV1:
+dbgU2 UV2:
+dbgNM normals:
+dbgMD Model ID:  ~y~~1~
+dbgMN Veh name:
+dbgDD Draw dist: ~y~~1~.~1~
+dbgNN ~g~~h~~h~~h~CAR COMPONENTS:
+dbgN01 CAR_CHASSIS ....
+dbgN02 CAR_WHEEL_RF ...
+dbgN03 CAR_WHEEL_RM ...
+dbgN04 CAR_WHEEL_RB ...
+dbgN05 CAR_WHEEL_LF ...
+dbgN06 CAR_WHEEL_LM ...
+dbgN07 CAR_WHEEL_LB ...
+dbgN08 CAR_DOOR_RF ....
+dbgN09 CAR_DOOR_RR ....
+dbgN10 CAR_DOOR_LF ....
+dbgN11 CAR_DOOR_LR ....
+dbgN12 CAR_BUMP_FRONT
+dbgN13 CAR_BUMP_REAR
+dbgN14 CAR_WING_RF ....~n~CAR_WING_LF ....
+dbgN16 CAR_BONNET .....~n~CAR_BOOT .......~n~CAR_WINDSCREEN
+dbgN19 CAR_EXHAUST.....~n~CAR_MISC_A .....~n~CAR_MISC_B .....
+dbgN22 CAR_MISC_C .....~n~CAR_MISC_D .....~n~CAR_MISC_E .....
+dbgNB1 BIKE_NODE_1 ..
+dbgNB2 BIKE_NODE_2 ..
+dbgNB3 BIKE_NODE_3 ..
+dbgNB4 BIKE_NODE_4 ..
+dbgP0 ~g~~h~~h~~h~POOL INFO:
+dbgP1 Peds: ~b~~h~~h~~h~~1~~w~ / ~1~
+dbgP2 Vehicle: ~b~~h~~h~~h~~1~~w~ / ~1~
+dbgP3 Building: ~b~~h~~h~~h~~1~~w~ / ~1~
+dbgP4 Object: ~b~~h~~h~~h~~1~~w~ / ~1~
+dbgP5 Colision: ~b~~h~~h~~h~~1~~w~ / ~1~
+dbgP6 PointRoute: ~b~~h~~h~~h~~1~~w~ / ~1~
+dbgP7 PatrolRoute: ~b~~h~~h~~h~~1~~w~ / ~1~
+dbgP8 NodeRoute: ~b~~h~~h~~h~~1~~w~ / ~1~
+dbgP9 TaskAllocator: ~b~~h~~h~~h~~1~~w~ / ~1~
+DEBUGA4 Veh Class:  ~y~~1~
+DEBUGB4 Veh Sub Class:  ~y~~1~
+DEBUGC4 Veh Type:  ~y~~1~
+DEBUGD4 Veh Spawn Class:  ~y~~1~
+DEBUGE4 Num Doors:  ~y~~1~
+DEBUGL4 Primary Color:  ~y~~1~
+DEBUGM4 Secondary Color:  ~y~~1~
+DEBUGN4 Tertiary Color:  ~y~~1~
+DEBUGO4 Quaternary Color:  ~y~~1~
+DEBUGP4 Mass:
+DEBUGS4 Turn Mass:
+DEBUGU4 Drag Mult:
+DEBUGX4 Centre Of Mass X:
+DEBUGZ4 Centre Of Mass Y:
+DEBUGB5 Centre Of Mass Z:
+DEBUGD5 Percent Submerged:  ~y~~1~
+DEBUGE5 Traction Multiplier:
+DEBUGG5 Drive Type:
+DEBUGH5 ~y~Front
+DEBUGI5 ~y~Rear
+DEBUGJ5 ~y~4 Wheel
+DEBUGK5 Engine Type:
+DEBUGL5 ~y~Petrol
+DEBUGM5 ~y~Diesel
+DEBUGN5 ~y~Electric
+DEBUGO5 Number Of Gears:  ~y~~1~
+DEBUGS5 Engine Acceleration:
+DEBUGU5 Engine Inertia:
+DEBUGX5 MonetaryValue: ~y~~1~
+DEBUGY5 Amount Of Seats: ~y~~1~
+
+# Misc
+DEBUG98 Fat: ~1~
+DEBUG99 Stamina: ~1~
+DEBUG1A Muscle: ~1~
+DEBUG1B Sex Appeal: ~1~
+DEBUG1C Driving Skill: ~1~
+DEBUG1D Flying Skill: ~1~
+DEBUG1E Bike Skill: ~1~
+DEBUG1F Cycling Skill: ~1~
+DEBUG1G Luck: ~1~
+DEBUG1H Respect: ~1~
+DEBUG1O Money: ~1~
+DEBUG1M Weather ID: ~1~
+DEBUGJ1 Interior ID:~1~
+DEBUGB2 Model ID:~1~
+DEBUGC2 That Model doesn't exist.
+DEBUG5W Ped ID: ~1~
+DEBUG6B Wanted Multiplier: ~1~
+DEBUG7H Speed=
+DEBUG9S Grove Street Families: ~1~
+DEBUG9T Los Santos Vagos: ~1~
+DEBUG9U Ballas: ~1~
+DEBUG6A San Fierro Rifa: ~1~
+DEBUG6C Da Nang Boys: ~1~
+DEBUG6D Mafia: ~1~
+DEBUG6E Mountain Cloud Triad: ~1~
+DEBUG6F Varrio Los Aztecas: ~1~
+DEBUG6G Save slot: ~1~
+DEBUG6K Save Name:
+DEBUG6I Debug Menu: No Config File
+
+
+
+
